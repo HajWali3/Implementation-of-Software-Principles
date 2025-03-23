@@ -16,7 +16,7 @@ This file demonstrates a low cohesion design where a single class handles multip
 
 ## 2. With High Cohesion
 
-By refactoring, we separate concerns into three classes:
+By refactoring, i separate concerns into three classes:
 
 - `UserProfile` – Manages user-related data only.
 - `Messaging` – Handles user-to-user communication.
